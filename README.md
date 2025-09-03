@@ -69,7 +69,6 @@
 - 🎨 No frontend, foco em **interfaces rápidas e acessíveis com React, Next.js e Tailwind CSS**  
 - ☁️ Uso **Firebase** para autenticação, banco de dados em tempo real e deploy de projetos  
 - 🎮 Gamer nas horas vagas | 🎵 Apaixonado por música  
-- 🌍 Aberto a oportunidades de colaboração em projetos Open Source  
 
 ---
 
