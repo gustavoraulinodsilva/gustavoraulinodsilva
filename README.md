@@ -1,11 +1,11 @@
 <h1 align="center">Gustavo Raulino da Silva</h1>
 
 <p align="center">
-Desenvolvedor focado em backend e aplicações web escaláveis.
+Transformando curiosidade em conhecimento e conhecimento em soluções.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=61dafb&size=22&center=true&vCenter=true&width=900&lines=Backend-focused+Fullstack+Developer;Next.js+%7C+React+%7C+NestJS+%7C+TypeScript;Construindo+APIs+e+sistemas+web;Foco+em+arquitetura+e+escalabilidade" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=61dafb&size=22&center=true&vCenter=true&width=900&lines=Não+nasci+pronto.+Estou+me+tornando.;Python+%7C+Tecnologia+%7C+Engenharia+da+Computação;Conectando+hardware,+software+e+pessoas" />
 </p>
 
 <p align="center">
@@ -24,17 +24,16 @@ Desenvolvedor focado em backend e aplicações web escaláveis.
 
 ## 🧠 Sobre
 
-- Estudante de Engenharia da Computação (9º semestre)  
-- Foco em desenvolvimento backend e arquitetura de APIs  
-- Experiência com aplicações web em ambiente real  
-- Interesse em sistemas escaláveis e boas práticas de desenvolvimento  
+* Estudante de Engenharia da Computação (9º semestre)
+* Estudando Python e construindo projetos para evoluir minhas habilidades técnicas
+* Conectando hardware, software e pessoas
 
 ---
 
 ## 🧩 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,nodejs,postgres" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,nodejs,postgres,python" />
 </p>
 
 <p align="center">
