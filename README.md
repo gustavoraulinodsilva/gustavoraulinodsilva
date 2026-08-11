@@ -29,7 +29,7 @@
 │                                                                      │
 │  ROLE        :: Computer Engineering Student / Developer            │
 │  LOCATION    :: Brazil                                              │
-│  FOCUS       :: Web Development & Software Engineering               │
+│  FOCUS       :: Web Development & Software Engineering              │
 │                                                                      │
 │  FRONTEND    :: React · Next.js                                     │
 │  BACKEND     :: Node.js · NestJS                                    │
@@ -49,33 +49,47 @@ Atualmente concentro meus estudos no ecossistema **TypeScript/Node.js**, com **R
 
 Meu objetivo é evoluir tanto no desenvolvimento de interfaces quanto na construção de APIs, regras de negócio e arquiteturas capazes de sustentar aplicações reais.
 
-Também mantenho interesse em explorar futuramente projetos envolvendo **Arduino, ESP32 e sistemas embarcados**, conectando software e hardware.
+Também possuo experiência com **PHP, Laravel e Filament**, tecnologias que fazem parte do meu repertório de desenvolvimento.
+
+No futuro, pretendo explorar projetos envolvendo **Arduino, ESP32 e sistemas embarcados**, conectando software e hardware.
 
 > `Build → Experiment → Understand → Improve`
 
 ---
 
-# `01 // CORE STACK`
+# `01 // TECHNOLOGY STACK`
 
 <div align="center">
 
-### Language
+### Core Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs&theme=dark" />
 
-### Frontend
+<br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" />
+### Secondary / Established Stack
 
-### Backend
+<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs&theme=dark" />
+<br>
 
-### Database
+<img src="https://img.shields.io/badge/Filament-0D1117?style=for-the-badge&logo=laravel&logoColor=00E5FF" />
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase&theme=dark" />
+<br><br>
 
-### Development
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark" />
+
+<br>
+
+### Backend Services
+
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
+
+<br>
+
+### Development Tools
 
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman,figma&theme=dark" />
 
@@ -86,22 +100,26 @@ Também mantenho interesse em explorar futuramente projetos envolvendo **Arduino
 # `02 // DEVELOPMENT ENVIRONMENT`
 
 ```text
-[ PRIMARY STACK ]
+[ DEVELOPMENT STACK ]
 
-LANGUAGE
-└── TypeScript
-
-WEB
+CORE STACK
+├── TypeScript
+├── JavaScript
 ├── React
-└── Next.js
-
-BACKEND
+├── Next.js
 ├── Node.js
 └── NestJS
 
-DATABASE
+SECONDARY / ESTABLISHED STACK
+├── PHP
+├── Laravel
+└── Filament
+
+DATABASES
 ├── PostgreSQL
-├── MySQL
+└── MySQL
+
+BACKEND SERVICES
 └── Firebase
 
 TOOLS
@@ -111,7 +129,7 @@ TOOLS
 ├── Postman
 └── Linux
 
-INTEREST
+FUTURE EXPLORATION
 └── Arduino / ESP32
 ```
 
@@ -121,24 +139,32 @@ INTEREST
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────┐
-│                         CURRENT FOCUS                               │
+│                         ENGINEERING FOCUS                           │
 ├──────────────────────────────────────────────────────────────────────┤
 │                                                                      │
-│  FRONTEND                                                            │
+│  CORE STACK                                                          │
+│  ├── TypeScript                                                     │
 │  ├── React                                                          │
 │  ├── Next.js                                                        │
-│  └── TypeScript                                                     │
-│                                                                      │
-│  BACKEND                                                             │
 │  ├── Node.js                                                        │
-│  ├── NestJS                                                         │
-│  └── REST APIs                                                      │
+│  └── NestJS                                                         │
+│                                                                      │
+│  SECONDARY / ESTABLISHED                                             │
+│  ├── PHP                                                             │
+│  ├── Laravel                                                         │
+│  └── Filament                                                        │
 │                                                                      │
 │  ENGINEERING                                                         │
+│  ├── REST APIs                                                       │
+│  ├── Full-Stack Development                                          │
 │  ├── Software Architecture                                           │
 │  ├── Database Design                                                 │
 │  ├── API Design                                                      │
+│  ├── Business Logic                                                  │
 │  └── Clean & Maintainable Code                                      │
+│                                                                      │
+│  FUTURE EXPLORATION                                                  │
+│  └── Arduino / ESP32 / Embedded Systems                             │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
@@ -186,20 +212,28 @@ $ ./system-status.sh
   ├── Node.js
   └── NestJS
 
+> FRONTEND
+
+  ├── Modern React Applications
+  ├── Next.js
+  ├── TypeScript
+  └── Frontend Architecture
+
 > BACKEND
 
+  ├── Node.js
+  ├── NestJS
   ├── REST APIs
   ├── Authentication
   ├── Database Design
-  ├── Business Logic
-  └── API Architecture
+  └── Business Logic
 
 > FULL_STACK
 
   ├── Modern Web Applications
-  ├── Frontend Architecture
-  ├── Backend Architecture
-  └── Integration Between Systems
+  ├── API Integration
+  ├── System Architecture
+  └── Scalable Application Design
 
 > NEXT_LEVEL
 
