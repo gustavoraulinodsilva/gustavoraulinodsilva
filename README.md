@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=INITIALIZING+GUSTAVO.DEV...;SYSTEM+ONLINE+%E2%9C%93;COMPUTER+ENGINEERING;REACT+%7C+NEXT.JS+%7C+NESTJS;BUILDING+WEB+%26+MOBILE+APPLICATIONS;EXPLORING+PYTHON+%26+EMBEDDED+SYSTEMS" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=INITIALIZING+GUSTAVO.DEV...;SYSTEM+ONLINE+%E2%9C%93;COMPUTER+ENGINEERING;REACT+%7C+NEXT.JS+%7C+NESTJS;BUILDING+MODERN+WEB+APPLICATIONS;SOFTWARE+ENGINEERING+%26+FULL+STACK+DEVELOPMENT" alt="Typing Animation"/>
 
 <br>
 
@@ -31,10 +31,9 @@
 │  LOCATION    :: Brazil                                              │
 │  FOCUS       :: Web Development & Software Engineering               │
 │                                                                      │
-│  PRIMARY     :: React · Next.js · NestJS                             │
-│  MOBILE      :: React Native                                        │
-│  EXPLORING   :: Python · Embedded Systems                            │
-│  HARDWARE    :: Arduino · ESP32                                     │
+│  FRONTEND    :: React · Next.js                                     │
+│  BACKEND     :: Node.js · NestJS                                    │
+│  LANGUAGE    :: TypeScript · JavaScript                             │
 │                                                                      │
 │  STATUS      :: ONLINE                                              │
 │  MODE        :: BUILD                                               │
@@ -44,13 +43,13 @@
 
 ### `> Sobre Mim`
 
-Sou estudante de **Engenharia de Computação** e desenvolvedor interessado em construir aplicações modernas, sistemas bem estruturados e soluções que conectam software e hardware.
+Sou estudante de **Engenharia de Computação** e desenvolvedor focado em construir aplicações web modernas e sistemas bem estruturados.
 
-Atualmente estou concentrando meus estudos no ecossistema **JavaScript/TypeScript**, principalmente com **React, Next.js e NestJS**, explorando desenvolvimento frontend, aplicações full-stack e APIs.
+Atualmente concentro meus estudos no ecossistema **TypeScript/Node.js**, com **React, Next.js e NestJS** como principais tecnologias.
 
-Como complemento, estou estudando **React Native** para desenvolvimento mobile e explorando **Python** para experimentação e automação.
+Meu objetivo é evoluir tanto no desenvolvimento de interfaces quanto na construção de APIs, regras de negócio e arquiteturas capazes de sustentar aplicações reais.
 
-Também tenho interesse em projetos envolvendo **Arduino, ESP32 e sistemas embarcados**.
+Também mantenho interesse em explorar futuramente projetos envolvendo **Arduino, ESP32 e sistemas embarcados**, conectando software e hardware.
 
 > `Build → Experiment → Understand → Improve`
 
@@ -60,33 +59,25 @@ Também tenho interesse em projetos envolvendo **Arduino, ESP32 e sistemas embar
 
 <div align="center">
 
+### Language
+
+<img src="https://skillicons.dev/icons?i=ts,js&theme=dark" />
+
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" />
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=dark" />
-
-### Mobile
-
-<img src="https://skillicons.dev/icons?i=react&theme=dark" />
-
-<br>
-
-<sub>React Native · Expo</sub>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs&theme=dark" />
 
 ### Database
 
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase&theme=dark" />
 
-### Experimental
+### Development
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-
-### Hardware & Embedded
-
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman,figma&theme=dark" />
 
 </div>
 
@@ -94,34 +85,19 @@ Também tenho interesse em projetos envolvendo **Arduino, ESP32 e sistemas embar
 
 # `02 // DEVELOPMENT ENVIRONMENT`
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman,figma&theme=dark" />
-
-</div>
-
 ```text
-[ DEVELOPMENT STACK ]
+[ PRIMARY STACK ]
 
-LANGUAGES
-├── TypeScript
-├── JavaScript
-├── Python
-└── C / C++ → Embedded experimentation
+LANGUAGE
+└── TypeScript
 
 WEB
 ├── React
-├── Next.js
-└── HTML / CSS
+└── Next.js
 
 BACKEND
 ├── Node.js
-├── NestJS
-└── Express
-
-MOBILE
-├── React Native
-└── Expo
+└── NestJS
 
 DATABASE
 ├── PostgreSQL
@@ -135,32 +111,59 @@ TOOLS
 ├── Postman
 └── Linux
 
-HARDWARE
-├── Arduino
-└── ESP32
+INTEREST
+└── Arduino / ESP32
 ```
 
 ---
 
-# `03 // PROJECTS`
+# `03 // ENGINEERING FOCUS`
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│                         CURRENT FOCUS                               │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  FRONTEND                                                            │
+│  ├── React                                                          │
+│  ├── Next.js                                                        │
+│  └── TypeScript                                                     │
+│                                                                      │
+│  BACKEND                                                             │
+│  ├── Node.js                                                        │
+│  ├── NestJS                                                         │
+│  └── REST APIs                                                      │
+│                                                                      │
+│  ENGINEERING                                                         │
+│  ├── Software Architecture                                           │
+│  ├── Database Design                                                 │
+│  ├── API Design                                                      │
+│  └── Clean & Maintainable Code                                      │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `04 // PROJECTS`
 
 <div align="center">
 
-<a href="https://github.com/gustavoraulinodsilva">
+<a href="https://github.com/gustavoraulinodsilva/saude-mental">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavoraulinodsilva&repo=saude-mental&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff" />
 </a>
 
-<a href="https://github.com/gustavoraulinodsilva">
+<a href="https://github.com/gustavoraulinodsilva/ecommercepets">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavoraulinodsilva&repo=ecommercepets&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff" />
 </a>
 
 <br>
 
-<a href="https://github.com/gustavoraulinodsilva">
+<a href="https://github.com/gustavoraulinodsilva/desafio2-implementacao-de-blog">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavoraulinodsilva&repo=desafio2-implementacao-de-blog&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff" />
 </a>
 
-<a href="https://github.com/gustavoraulinodsilva">
+<a href="https://github.com/gustavoraulinodsilva/e-motion-landing-page">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavoraulinodsilva&repo=e-motion-landing-page&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff" />
 </a>
 
@@ -168,7 +171,7 @@ HARDWARE
 
 ---
 
-# `04 // CURRENT OBJECTIVES`
+# `05 // CURRENT OBJECTIVES`
 
 ```bash
 $ ./system-status.sh
@@ -177,39 +180,37 @@ $ ./system-status.sh
 
 > PRIMARY_FOCUS
 
+  ├── TypeScript
   ├── React
   ├── Next.js
-  ├── TypeScript
-  ├── NestJS
-  └── Node.js ecosystem
+  ├── Node.js
+  └── NestJS
 
-> MOBILE_COMPLEMENT
-
-  ├── React Native
-  ├── Expo
-  └── Cross-platform development
-
-> CURRENT_EXPLORATION
+> BACKEND
 
   ├── REST APIs
-  ├── Full-Stack Applications
-  ├── Software Architecture
-  └── Database Design
+  ├── Authentication
+  ├── Database Design
+  ├── Business Logic
+  └── API Architecture
 
-> EXPERIMENTAL_ZONE
+> FULL_STACK
 
-  ├── Python
-  ├── Automation
-  ├── Arduino
-  ├── ESP32
-  └── Embedded Systems
+  ├── Modern Web Applications
+  ├── Frontend Architecture
+  ├── Backend Architecture
+  └── Integration Between Systems
 
-> LONG_TERM
+> NEXT_LEVEL
 
   ├── Build production-grade applications
-  ├── Improve system design
-  ├── Strengthen full-stack development
-  └── Connect software with hardware
+  ├── Improve software architecture
+  ├── Strengthen backend fundamentals
+  └── Build meaningful open-source projects
+
+> FUTURE_EXPLORATION
+
+  └── Arduino / ESP32 / Embedded Systems
 
 > SYSTEM_STATUS
 
@@ -218,7 +219,7 @@ $ ./system-status.sh
 
 ---
 
-# `05 // GITHUB ANALYTICS`
+# `06 // GITHUB ANALYTICS`
 
 <div align="center">
 
@@ -238,7 +239,7 @@ $ ./system-status.sh
 
 ---
 
-# `06 // ACTIVITY MATRIX`
+# `07 // ACTIVITY MATRIX`
 
 <div align="center">
 
@@ -248,7 +249,7 @@ $ ./system-status.sh
 
 ---
 
-# `07 // TROPHIES`
+# `08 // TROPHIES`
 
 <div align="center">
 
@@ -258,7 +259,7 @@ $ ./system-status.sh
 
 ---
 
-# `08 // CONTRIBUTION PROTOCOL`
+# `09 // CONTRIBUTION PROTOCOL`
 
 <div align="center">
 
@@ -268,7 +269,7 @@ $ ./system-status.sh
 
 ---
 
-# `09 // CONNECT`
+# `10 // CONNECT`
 
 <div align="center">
 
