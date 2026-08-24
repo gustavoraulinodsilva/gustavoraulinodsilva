@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=INITIALIZING+GUSTAVO.DEV...;SYSTEM+ONLINE+%E2%9C%93;COMPUTER+ENGINEERING;REACT+%7C+NEXT.JS+%7C+NESTJS;BUILDING+MODERN+WEB+APPLICATIONS;SOFTWARE+ENGINEERING+%26+FULL+STACK+DEVELOPMENT" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=INITIALIZING+GUSTAVO.DEV...;SYSTEM+ONLINE+%E2%9C%93;COMPUTER+ENGINEERING;LARAVEL+%7C+PHP+%7C+POSTGRESQL;NODE.JS+%7C+TYPESCRIPT+%7C+REACT;BUILDING+MODERN+WEB+APPLICATIONS;SOFTWARE+ENGINEERING+%26+FULL+STACK+DEVELOPMENT" alt="Typing Animation"/>
 
 <br>
 
@@ -31,9 +31,9 @@
 │  LOCATION    :: Brazil                                              │
 │  FOCUS       :: Web Development & Software Engineering              │
 │                                                                      │
-│  FRONTEND    :: React · Next.js                                     │
-│  BACKEND     :: Node.js · NestJS                                    │
-│  LANGUAGE    :: TypeScript · JavaScript                             │
+│  PRIMARY     :: PHP · Laravel · PostgreSQL                           │
+│  BACKEND     :: Laravel · REST APIs                                 │
+│  SECONDARY   :: Node.js · TypeScript · React · AdonisJS              │
 │                                                                      │
 │  STATUS      :: ONLINE                                              │
 │  MODE        :: BUILD                                               │
@@ -43,15 +43,15 @@
 
 ### `> Sobre Mim`
 
-Sou estudante de **Engenharia de Computação** e desenvolvedor focado em construir aplicações web modernas e sistemas bem estruturados.
+Sou estudante de **Engenharia de Computação** e desenvolvedor focado em construir aplicações web modernas, sistemas bem estruturados e soluções orientadas a regras de negócio.
 
-Atualmente concentro meus estudos no ecossistema **TypeScript/Node.js**, com **React, Next.js e NestJS** como principais tecnologias.
+Atualmente, meu principal eixo de desenvolvimento está no ecossistema **PHP/Laravel**, utilizando **Laravel, PostgreSQL, Composer, REST APIs, Blade e Filament** conforme a necessidade de cada projeto.
 
-Meu objetivo é evoluir tanto no desenvolvimento de interfaces quanto na construção de APIs, regras de negócio e arquiteturas capazes de sustentar aplicações reais.
+Como segundo ecossistema, trabalho com **Node.js e TypeScript**, explorando principalmente **React, Vite e AdonisJS**.
 
-Também possuo experiência com **PHP, Laravel e Filament**, tecnologias que fazem parte do meu repertório de desenvolvimento.
+Meu foco não é acumular frameworks, mas entender bem as ferramentas que utilizo e construir aplicações com uma base sólida de arquitetura, banco de dados, APIs e experiência de usuário.
 
-No futuro, pretendo explorar projetos envolvendo **Arduino, ESP32 e sistemas embarcados**, conectando software e hardware.
+Também tenho interesse em futuramente explorar projetos envolvendo **Arduino, ESP32 e sistemas embarcados**, conectando software e hardware.
 
 > `Build → Experiment → Understand → Improve`
 
@@ -63,31 +63,31 @@ No futuro, pretendo explorar projetos envolvendo **Arduino, ESP32 e sistemas emb
 
 ### Core Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,laravel,postgresql&theme=dark" />
 
 <br>
 
-### Secondary / Established Stack
-
-<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" />
-
-<br>
-
+<img src="https://img.shields.io/badge/Composer-0D1117?style=for-the-badge&logo=composer&logoColor=00E5FF" />
 <img src="https://img.shields.io/badge/Filament-0D1117?style=for-the-badge&logo=laravel&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Blade-0D1117?style=for-the-badge&logo=laravel&logoColor=00E5FF" />
 
 <br><br>
 
-### Databases
+### Secondary Stack
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark" />
-
-<br>
-
-### Backend Services
-
-<img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,react&theme=dark" />
 
 <br>
+
+<img src="https://img.shields.io/badge/AdonisJS-0D1117?style=for-the-badge&logo=adonisjs&logoColor=00E5FF" />
+
+<br><br>
+
+### Frontend Tooling
+
+<img src="https://skillicons.dev/icons?i=vite,html,css&theme=dark" />
+
+<br><br>
 
 ### Development Tools
 
@@ -102,25 +102,22 @@ No futuro, pretendo explorar projetos envolvendo **Arduino, ESP32 e sistemas emb
 ```text
 [ DEVELOPMENT STACK ]
 
-CORE STACK
-├── TypeScript
-├── JavaScript
-├── React
-├── Next.js
-├── Node.js
-└── NestJS
-
-SECONDARY / ESTABLISHED STACK
+PRIMARY STACK
 ├── PHP
 ├── Laravel
+├── Composer
+├── PostgreSQL
+├── REST APIs
+├── Blade
+├── Vite
 └── Filament
 
-DATABASES
-├── PostgreSQL
-└── MySQL
-
-BACKEND SERVICES
-└── Firebase
+SECONDARY STACK
+├── Node.js
+├── TypeScript
+├── React
+├── Vite
+└── AdonisJS
 
 TOOLS
 ├── Git
@@ -142,20 +139,24 @@ FUTURE EXPLORATION
 │                         ENGINEERING FOCUS                           │
 ├──────────────────────────────────────────────────────────────────────┤
 │                                                                      │
-│  CORE STACK                                                          │
-│  ├── TypeScript                                                     │
-│  ├── React                                                          │
-│  ├── Next.js                                                        │
-│  ├── Node.js                                                        │
-│  └── NestJS                                                         │
-│                                                                      │
-│  SECONDARY / ESTABLISHED                                             │
+│  PRIMARY STACK                                                       │
 │  ├── PHP                                                             │
 │  ├── Laravel                                                         │
+│  ├── Composer                                                         │
+│  ├── PostgreSQL                                                      │
+│  ├── REST APIs                                                       │
+│  ├── Blade                                                           │
+│  ├── Vite                                                            │
 │  └── Filament                                                        │
 │                                                                      │
+│  SECONDARY STACK                                                     │
+│  ├── Node.js                                                         │
+│  ├── TypeScript                                                      │
+│  ├── React                                                           │
+│  ├── Vite                                                            │
+│  └── AdonisJS                                                        │
+│                                                                      │
 │  ENGINEERING                                                         │
-│  ├── REST APIs                                                       │
 │  ├── Full-Stack Development                                          │
 │  ├── Software Architecture                                           │
 │  ├── Database Design                                                 │
@@ -206,34 +207,39 @@ $ ./system-status.sh
 
 > PRIMARY_FOCUS
 
-  ├── TypeScript
-  ├── React
-  ├── Next.js
-  ├── Node.js
-  └── NestJS
-
-> FRONTEND
-
-  ├── Modern React Applications
-  ├── Next.js
-  ├── TypeScript
-  └── Frontend Architecture
+  ├── PHP
+  ├── Laravel
+  ├── Composer
+  ├── PostgreSQL
+  ├── REST APIs
+  ├── Blade
+  ├── Vite
+  └── Filament
 
 > BACKEND
 
-  ├── Node.js
-  ├── NestJS
+  ├── Laravel Applications
   ├── REST APIs
   ├── Authentication
   ├── Database Design
-  └── Business Logic
+  ├── Business Logic
+  └── Application Architecture
 
 > FULL_STACK
 
-  ├── Modern Web Applications
-  ├── API Integration
-  ├── System Architecture
-  └── Scalable Application Design
+  ├── Laravel Applications
+  ├── Blade
+  ├── Vite
+  ├── Frontend Integration
+  └── API-driven Systems
+
+> SECONDARY_ECOSYSTEM
+
+  ├── Node.js
+  ├── TypeScript
+  ├── React
+  ├── Vite
+  └── AdonisJS
 
 > NEXT_LEVEL
 
@@ -307,7 +313,7 @@ $ ./system-status.sh
 
 <div align="center">
 
-<a href="mailto:gustavoraulinodasilva@gmail.com">
+<a href="mailto:[gustavoraulinodasilva@gmail.com](mailto:gustavoraulinodasilva@gmail.com)">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
 </a>
 
